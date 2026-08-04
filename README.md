@@ -1,3 +1,18 @@
+> # ⚠️ This repository is archived and superseded
+>
+> **be-more-agent has been retired as part of the Prismtek consolidation into [codysumpter-cloud/prismtek-apps](https://github.com/codysumpter-cloud/prismtek-apps).**
+>
+> Canonical location: **services/buddy-agent**
+>
+> Reference fork of brenpoly/be-more-agent. The Prismtek delta was 2 files of fork maintenance and no product code, so nothing was migrated. Upstream remains at brenpoly/be-more-agent.
+>
+> - Audit record: [`docs/migrations/be-more-agent.yaml`](https://github.com/codysumpter-cloud/prismtek-apps/blob/main/docs/migrations/be-more-agent.yaml)
+> - Consolidation tracker: [prismtek-apps#359](https://github.com/codysumpter-cloud/prismtek-apps/issues/359)
+> - prismtek-apps revision at archive time: `f47023186c67e649378734ee80a158a022dbb941`
+>
+> Kept read-only for history and provenance. **Do not open new work here.**
+> The tag `pre-archive-final` marks the exact final state of the default branch.
+
 # Be More Agent 🤖
 **A Customizable, Offline-First AI Agent for Raspberry Pi**
 
